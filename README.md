@@ -2,7 +2,7 @@
 SAN and NAS
 
 # REQUIREMENTS
-  You need to have ISO file. [download it in here](https://downloads.sourceforge.net/project/openfiler/openfiler-distribution-iso-2.99-x64/openfileresa-2.99.1-x86_64-disc1.iso)
+  You need to have openfiler ISO file. [download it in here!](https://downloads.sourceforge.net/project/openfiler/openfiler-distribution-iso-2.99-x64/openfileresa-2.99.1-x86_64-disc1.iso)
 
 # INSTALLATION
 
