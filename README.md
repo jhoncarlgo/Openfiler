@@ -8,15 +8,22 @@ SAN and NAS
 # INSTALLATION
   - Open your VMware Workstation.
   ![Image of VMware Workstation](Images/OpenVMware.png)
+  
   - Click File -> New Virtual Machine.
   ![Image of VMware Workstation](Images/NewVirtual.png)
+  
   - Click Next.
   ![Image of VMware Workstation](Images/firstNext.png)
+  
   - Click Next.
   ![Image of VMware Workstation](Images/secondNext.png)
+  
   - Click Next.
   ![Image of VMware Workstation](Images/3rdNext.png)
+  
   - Select Linux (Version: Centos 6 64bit).
+   ![Image of VMware Workstation](Images/selectLinux.png)
+   
   - Click Next.
   - Enter Name of your server.
   - Select number of processors ( 2 CPU will do )
