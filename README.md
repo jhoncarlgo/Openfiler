@@ -7,6 +7,7 @@ SAN and NAS
 
 # INSTALLATION
   - Open your VMware Workstation.
+  ![Image of VMware Workstation](Images/OpenVMware.png)
   - Click File -> New Virtual Machine.
   - Click Next -> Next -> Next .
   - Select Linux (Version: Centos 6 64bit).
